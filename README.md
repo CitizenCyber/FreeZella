@@ -1,2 +1,2 @@
 # CheckBack
-FOS trading journal
+FOS trading journal (Work in progress)
